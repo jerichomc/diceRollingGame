@@ -1,0 +1,45 @@
+body {
+    /* overflow: hidden; */
+}
+div {
+    border: 1px solid #000;
+}
+
+#title {
+    height: 15%;
+}
+
+
+
+#game {
+    margin-top: 20px;
+    height: 100vh;
+    display:flex;
+    
+}
+.dice {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    border: #000 1px solid;
+}
+.score {
+    width: 30%;
+    border: #000 1px solid;
+}
+
+#upper-section{
+    
+}
+#lower-section{
+
+}
+
+.score-box{
+    display: flex;
+    justify-content: space-between;
+
+}
+.score h2 {
+    height: 20px;
+}
